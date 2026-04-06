@@ -1,0 +1,39 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+.vscode/
+
+# Debug and temporary files from scraping
+debug_*.png
+debug_*.json
+debug_*.html
+debug_*.txt
+test_*.png
+test_*.html
+test_*.py
+check_urls.py
+dump_api.py
+find_images.py
+list_ranking.py
+open_browser.py
+ctk_scroll.txt
+debug_desc_out.txt
+debug_lang_cells_out.txt
+debug_lang_out.txt
+debug_langs.txt
+debug_output.txt
+debug_parse_output.txt
+debug_attrs.json
+debug_forza.json
+debug_api_9NBLGGH2JHXJ.json
+
+# Assets (keep bg.png as it's the UI background)
+# bg.png
