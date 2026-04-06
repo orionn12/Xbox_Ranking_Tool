@@ -17,3 +17,7 @@ ENV/
 # OS ç”Ÿæˆãƒ•ã‚¡ã‚¤ãƒ«
 .DS_Store
 Thumbs.db
+
+# ƒrƒ‹ƒh¬‰Ê•¨
+build/
+dist/
